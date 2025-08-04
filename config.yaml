@@ -58,7 +58,7 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 01-intro.md
 - 02-filedir.md
 - 03-create.md
@@ -68,13 +68,13 @@ episodes:
 - 07-find.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
@@ -91,7 +91,7 @@ languages:
   other:
     - lang: "Español"
       url: "https://biont-training.github.io/shell-novice-es"
-    - lang: German
+    - lang: Deutsch
       url: "https://biont-training.github.io/shell-novice-de"
-    - lang: Italian
+    - lang: Italiano
       url: "https://biont-training.github.io/shell-novice-it"
